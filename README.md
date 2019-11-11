@@ -1,2 +1,2 @@
 # toronto-ml-summit
-Repo of the workshop I did at Toronto ML Summit
+Exercises, examples and demos of the interactive widgets workshop I did at [Toronto ML Summit](https://torontomachinelearning.com/events/#workshops)
