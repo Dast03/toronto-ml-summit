@@ -1,5 +1,5 @@
 # toronto-ml-summit
-Exercises, examples and demos of my workshop on jupyter widgets at [Toronto ML Summit](https://torontomachinelearning.com/events/#workshops)
+Examples, demos and exercises of my workshop on jupyter widgets at [Toronto ML Summit](https://torontomachinelearning.com/events/#workshops)
 
 The provided Dockerfile can be used to build a docker image (assuming docker is already installed) and launch the Jupyter notebook. 
 
