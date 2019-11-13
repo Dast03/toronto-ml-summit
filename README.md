@@ -9,4 +9,4 @@ Command to build the image:
 
 Command to run the Jupyter notebook:
 
-    docker run -p 8888:8888 -v /Users/ccherukuri/projects/toronto-ml-summit:/home/jovyan/work jupyter_widgets:v1
+    docker run -p 8888:8888 -v "$PWD":/home/jovyan jupyter_widgets:v1
