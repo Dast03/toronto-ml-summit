@@ -1,5 +1,5 @@
-# toronto-ml-summit
-Examples, demos and exercises of my workshop on building interactive visualizations at [Toronto ML Summit](https://torontomachinelearning.com/events/#workshops)
+# Toronto ML Summit Workshop
+Examples, demos and exercises of my workshop on "Jupyter Notebooks: Interactive Visualization Approaches" at [Toronto ML Summit](https://torontomachinelearning.com/events/#workshops)
 
 The provided Dockerfile can be used to build a docker image (assuming docker is already installed) and launch the Jupyter notebook. 
 
