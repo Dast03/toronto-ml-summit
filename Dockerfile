@@ -25,14 +25,9 @@ RUN conda install --quiet --yes \
     jupyter serverextension enable voila --sys-prefix && \
     rm -rf work
 
-# Allow user to write to directory
-# RUN chmod -R 777 /home/jovyan
-
 # Add files
 COPY notebooks /home/jovyan/notebooks
 COPY data /home/jovyan/data
-
-# USER $NB_USER
 
 # Expose the notebook port
 EXPOSE 8888
