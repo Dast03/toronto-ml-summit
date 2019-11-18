@@ -5,7 +5,7 @@ The provided Dockerfile can be used to build a docker image (assuming docker is 
 
 Instructions to set up the environment and run the jupyter notebook:
 
-* Build the docker image:
+* Build the docker image
 
 `docker build -t jupyter_widgets:v1 .` (don't forget the dot at the end!)
 
